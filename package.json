@@ -1,0 +1,27 @@
+{
+  "name": "navegantes",
+  "version": "1.0.0",
+  "description": "tienda de ropa deportiva y suplementos alimenticios",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yeimipao1/Tienda.git"
+  },
+  "author": "yeimi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yeimipao1/Tienda/issues"
+  },
+  "homepage": "https://github.com/yeimipao1/Tienda#readme",
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "mongoose": "^6.7.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
