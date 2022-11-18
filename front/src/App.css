@@ -39,7 +39,7 @@ nav {
   width: 90%;
   margin-right: 35%;
 }
-
+f
 #search_field {
   height: 2.4rem;
   padding: 1rem;
@@ -282,7 +282,7 @@ footer {
 
 .stockCounter input::-webkit-outer-spin-button,
 .stockCounter input::-webkit-inner-spin-button {
- appearance: none;
+  -webkit-appearance: none; 
   margin: 0;
 }
 
