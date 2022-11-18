@@ -2,7 +2,7 @@
   "name": "navegantes",
   "version": "1.0.0",
   "description": "tienda de ropa deportiva y suplementos alimenticios",
-  "main": "index.js",
+  "main": "server.js",
   "scripts": {
     "start": "node back/server.js",
     "dev": "SET NODE_ENV=DEVELOPMENT& nodemon back/server",
